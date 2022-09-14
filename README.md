@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate web developer from Malaysia</h3>
 
-- 🌱 I’m currently learning **IOT, Cloud Computing**
+- 🌱 I’m currently learning **IOT, Cloud Computing, Angular**
+
+- 🔮 I plan to learn **React, ExpressJS, NodeJS, AI**
 
 - 📫 How to reach me **ryanwong710200@gmail.com**
+
+- 📲 Reach me at Whatsapp **https://wa.link/1ktcpc**
 
 - ⚡ Fun fact **Love badminton**
 
