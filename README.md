@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ryanwong710200@gmail.com**
 
-- 📲 Reach me at Whatsapp <img align="center" src="https://png.pngtree.com/png-clipart/20210214/ourmid/pngtree-whatsapp-icon-whatsapp-logo-free-logo-design-template-png-image_5990837.png" alt="ryansyenyi" height="30" width="30" /> **https://wa.link/1ktcpc**
+- 📲 Reach me at Whatsapp <img align="center" src="https://imgur.com/a/xYSaXT6" alt="ryansyenyi" height="30" width="30" /> **https://wa.link/1ktcpc**
 
 - ⚡ Fun fact **Love badminton**
 
