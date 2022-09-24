@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **IOT, Cloud Computing, Angular**
 
-- 🔮 I plan to learn **React, ExpressJS, NodeJS, AI**
+- 🔮 I plan to learn **React, ExpressJS, NodeJS, AI, DevOps, Machine Learning, Augmented Reality, Blockchain**
 
-- 📫 How to reach me **ryanwong710200@gmail.com**
+- 📫 How to reach me **ryanwong710200@gmail.com** or
 
 - 📲 Reach me at Whatsapp <img align="center" src="https://www.freepnglogos.com/uploads/whatsapp-logo-png-hd-2.png" alt="ryansyenyi" height="20" width="20" /> **https://wa.link/1ktcpc**
 
