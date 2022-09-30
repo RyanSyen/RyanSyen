@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate web developer from Malaysia</h3>
 
+[![@ryansyen's Holopin board](https://holopin.io/api/user/board?user=ryansyen)](https://holopin.io/@ryansyen)
+
 - 🌱 I’m currently learning **IOT, Cloud Computing, Angular**
 
 - 🔮 I plan to learn **React, ExpressJS, NodeJS, AI, DevOps, Machine Learning, Augmented Reality, Blockchain**
