@@ -3,9 +3,7 @@
 
 [![@ryansyen's Holopin board](https://holopin.io/api/user/board?user=ryansyen)](https://holopin.io/@ryansyen)
 
-- 🌱 I’m currently learning **IOT, Cloud Computing, Angular**
-
-- 🔮 I plan to learn **React, ExpressJS, NodeJS, AI, DevOps, Machine Learning, Augmented Reality, Blockchain**
+- 🌱 I’m currently learning **IOT, Cloud Computing, Angular, React/NextJS, Typescript, .NET Core**
 
 - 📫 How to reach me **ryanwong710200@gmail.com** or
 
